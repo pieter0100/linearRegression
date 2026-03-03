@@ -1,5 +1,8 @@
 # Linear Regression from Scratch (with Visualization) 📉
 
+<img width="624" height="459" alt="image" src="https://github.com/user-attachments/assets/d726ac15-e054-43fc-ab5c-3e51709c0f6a" />
+
+
 Prosta implementacja **Regresji Liniowej** w Pythonie napisana "od zera" (bez użycia `scikit-learn`). Projekt służy do edukacyjnej wizualizacji algorytmu **Gradient Descent** (Metoda Najszybszego Spadku).
 
 Skrypt wyświetla animowany wykres, pokazując w czasie rzeczywistym, jak model matematyczny "uczy się" dopasowywać linię do danych (Salary Data).
